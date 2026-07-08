@@ -1,0 +1,7 @@
+<configuration>
+    <input>
+       <net-file value="tuto_circles.net.xml"/>
+       <route-files value="tuto_circles_wrt.rou.xml"/>
+       <additional-files value="tuto_circles_wrt.add.xml"/>
+    </input>
+</configuration>
