@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-07-09T11:24:28.291460+09:00 by Eclipse SUMO netedit 1.27.1
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Rerouter -->
+    <rerouter id="rr_0" pos="-13.97,-28.57" edges="E4">
+        <interval begin="0.00" end="3600.00">
+            <destProbReroute id="E0" probability="1.00"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_1" pos="22.73,26.85" edges="E0">
+        <interval begin="0.00" end="60.00">
+            <destProbReroute id="E4" probability="1.00"/>
+        </interval>
+    </rerouter>
+</additional>
