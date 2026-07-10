@@ -1,0 +1,9 @@
+<configuration>
+   <input>
+       <net-file value="tuto_sumolympics.net.xml"/>
+       <route-files value="tuto_sumolympics_netedit.rou.xml"/>
+   </input>
+   <processing>
+    <lateral-resolution value="1." />
+   </processing>
+</configuration>
